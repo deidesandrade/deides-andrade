@@ -1,6 +1,6 @@
 - 👋 Olá, sou @deidesandrade
 - 👀 Curto Tecnology!
-- 🌱 No momento estou aprendendo Linguagens de Programação tais como Java, Phyton, e outros.
+- 🌱 No momento estou aprendendo Linguagens de Programação tais como Java, Python, e outros.
 - 💞️ Sou universitário do curso de Eng. de Software, em busca de oportunidade para estágio remoto/home office.
 - 📫 Fale comigo através do LinkedIn.
 
