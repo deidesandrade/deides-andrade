@@ -8,10 +8,10 @@ You can click the Preview link to take a look at your changes.
 Administrador e Universitário no curso de Engenharia de Software.
 Em busca de oportunidade para estágio remoto/home office.
 
- <div style="display: inline_block">  
+  <div  align="center" style="display: inline_block"><br>   
   <a href="https://github.com/deidesandrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deidesandrade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deidesandrade&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deidesandrade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"></a> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deidesandrade&layout=compact&langs_count=7&theme=algolia"></a> 
   </div>  
   <div  align="center" style="display: inline_block"><br>  
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
