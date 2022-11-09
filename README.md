@@ -32,10 +32,8 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:deides.andrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   <br>
-<div  align="center"> 
-![Snake animation](https://https://github.com/deidesandrade/deidesandrade/blob/output/github-contribution-grid-snake.svg)
-</div>
 
-<div  align="center"> 
+![Snake animation](https://https://github.com/deidesandrade/deidesandrade/blob/output/github-contribution-grid-snake.svg)
+
 ![readme](https://github-readme-stats.vercel.app/api/pin/?username=deidesandrade&repo=deidesandrade&theme=react)](https://github.com/deidesandrade/deidesandrade)
-</div>
+
