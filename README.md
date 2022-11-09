@@ -1,6 +1,6 @@
-- 👋 Olá, sou @deidesandrade
+  <h1> Hi! My name is Deides. </h1>
 - 👀 Curto Tecnology!
-- 🌱 No momento estudndo Java, Python, e outros.
+- 🌱 No momento estudando Java, Python, e outros.
 - 💞️ Sou universitário do curso de Eng. de Software, em busca de oportunidade para estágio remoto/home office.
 - 📫 Fale comigo através do LinkedIn.
 
@@ -9,7 +9,6 @@ deidesandrade/deidesandrade is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-  <h1> Hi! My name is Deides. </h1>
   <div align="center">
   <a href="https://github.com/deidesandrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deidesandrade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -32,8 +31,4 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:deides.andrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   <br>
-
-![Snake animation](https://https://github.com/deidesandrade/deidesandrade/blob/output/github-contribution-grid-snake.svg)
-
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=deidesandrade&repo=deidesandrade&theme=react)
 
