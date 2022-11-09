@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 Administrador e Universitário no curso de Engenharia de Software.
 Em busca de oportunidade para estágio remoto/home office.
 
-  <div align="center">
+  <div>
   <a href="https://github.com/deidesandrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deidesandrade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deidesandrade&layout=compact&langs_count=7&theme=algolia"/>
