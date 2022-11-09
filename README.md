@@ -4,15 +4,14 @@ deidesandrade/deidesandrade is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Oiii eu sou a Deides Andrade! Universitário do curso de Eng. de Software, em busca de oportunidade para estágio remoto/home office. No momento estudando Java, Python, e outros.
+## Oiii eu sou a Deides Andrade! Universitário do curso de Eng. de Software, em busca de oportunidade para estágio remoto.
 
   <div align="center">
   <a href="https://github.com/deidesandrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deidesandrade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deidesandrade&layout=compact&langs_count=7&theme=algolia"/>
   </div>  
-    <br>
-  <div  align="center"> 
+  <div  align="center" style="display: inline_block"><br>  
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
