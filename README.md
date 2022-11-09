@@ -4,7 +4,7 @@ deidesandrade/deidesandrade is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi eu sou a Deides Andrade, criador de conteúdo de programação e tecnologia! Universitário do curso de Eng. de Software, em busca de oportunidade para estágio remoto/home office. No momento estudando Java, Python, e outros.
+## Oiii eu sou a Deides Andrade! Universitário do curso de Eng. de Software, em busca de oportunidade para estágio remoto/home office. No momento estudando Java, Python, e outros.
 
   <div align="center">
   <a href="https://github.com/deidesandrade">
