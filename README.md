@@ -3,7 +3,7 @@
 deidesandrade/deidesandrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# &#60; Hello world! /&#62; 👋 ## My name is Deides Andrade 😃
+# &#60; Hello world! /&#62; 👋 / My name is Deides Andrade 😃
 
 Administrador e Universitário no curso de Engenharia de Software.
 Em busca de oportunidade para estágio remoto/home office.
