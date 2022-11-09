@@ -4,7 +4,7 @@ deidesandrade/deidesandrade is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Oiii eu sou a Deides Andrade! Administrador e Universitário no curso de Eng. de Software
+## Oiii eu sou a Deides Andrade! Administrador e Universitário em Eng. de Software
 Em busca de oportunidade para estágio remoto/home office.
 
   <div align="center">
