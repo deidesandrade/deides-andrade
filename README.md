@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1> &#60; Hello world! /&#62; 👋</h1>  
 <h2> My name is Deides Andrade 😃</h2>
 
-Universitário do curso Engenharia de Software.
+Universitário do curso de graduação em Engenharia de Software.
 Em busca de oportunidade para estágio remoto/home office.
   #
 <div align="center">
