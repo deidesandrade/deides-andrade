@@ -11,7 +11,7 @@ Em busca de oportunidade para estágio remoto/home office.
   #
 <div align="center">
   <a href="https://github.com/deidesandrade">
-  <img max-width:"50%" src="https://github-readme-stats.vercel.app/api?username=deidesandrade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img src="https://camo.githubusercontent.com/9429acfb745584c457c6bc8ec7414461e6674ecaafac47788f26f42ba6b93444/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d646569646573616e64726164652673686f775f69636f6e733d74727565267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=deidesandrade&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 50%;" left="100%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deidesandrade&layout=compact&langs_count=7&theme=algolia"/>
 </div>  
 
